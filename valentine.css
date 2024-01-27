@@ -357,8 +357,8 @@ margin-left : 40px ;
     display : flex ;
     align-items: center ;
     justify-content :center ;
-    gap : 100px ;
-    margin-left : 500px ;
+    gap : 50px ;
+    margin-left : 50px ;
 }
 
 .button1{
@@ -417,6 +417,23 @@ margin-left : 40px ;
     transform-origin:left ;
 }
 
+.gif{
+    background-color: green;
+    height :200px ;
+    box-shadow: 0 10px 20px 30px black , 0 10px 30px 50px rgb(255, 0, 43) ,  0 0 50px 90px rgb(0, 0, 0) ;
+    margin-top : 50px ; 
+   border-bottom-left-radius: 300px   ;
+   border-top-right-radius: 300px   ;
+   border-bottom-right-radius: 300px   ;
+   border-top-left-radius: 300px   ;
+   opacity : 0.9;   
+   width : 200px ;  
+}
 
+body {
+
+zoom :45%;
+
+}
 
 }
