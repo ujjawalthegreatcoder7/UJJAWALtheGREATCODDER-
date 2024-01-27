@@ -432,7 +432,13 @@ margin-left : 40px ;
 
 body {
 
-zoom :45%;
+width : 1000px ;
+
+}
+
+.seconddiv{
+
+    width : 400px ;
 
 }
 
